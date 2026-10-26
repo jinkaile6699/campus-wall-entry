@@ -1,0 +1,14 @@
+{
+  "name": "浙江建设职业技术学院校园墙",
+  "short_name": "校园墙",
+  "description": "浙江建设职业技术学院校园墙 - 匿名/实名发帖与互动",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b2a55",
+  "theme_color": "#2c4180",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
