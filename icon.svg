@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4278f5"/>
+      <stop offset="1" stop-color="#7048e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <text x="256" y="300" font-family="'Microsoft YaHei','PingFang SC',sans-serif"
+        font-size="270" font-weight="700" fill="#ffffff" text-anchor="middle">墙</text>
+  <text x="256" y="430" font-family="'Microsoft YaHei','PingFang SC',sans-serif"
+        font-size="66" fill="#ffffff" opacity="0.92" text-anchor="middle">校园</text>
+</svg>
